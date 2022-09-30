@@ -1,7 +1,7 @@
 # Zephyr_demo
 This repository contains some demo code to use Zephyr OS with PlatformIO 
 
-# NRF42840DK setup
+# NRF52840DK setup
 * Before flashing the binary to the development board, download the NRF Commandline tools from https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools/Download?lang=en#infotabs
 
 # STM32F103C8T6-Bluepill setup
